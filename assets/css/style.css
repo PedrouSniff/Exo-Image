@@ -1,0 +1,16 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+#mainImage {
+    width: 100%;
+    height: 400px;
+}
+
+img {
+    height: 12rem;
+    width: 24rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
